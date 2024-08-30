@@ -1,4 +1,4 @@
-# Option Tool
+# Options Pricing & P&L Tool 💵
 
 The Options Pricing & Profitability Tool is an interactive Streamlit-based application. It offers an analysis of naked options trading strategies, providing insights into potential payoffs and risks. The application allows users to simulate different market conditions and option parameters, aiding in informed trading decisions.
 
