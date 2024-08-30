@@ -14,7 +14,7 @@ st.title('Options Pricing & P&L Tool 💵')
 
 #Provides a description on the app and how to use it
 st.write(
-        f"This tool does 2 things: **(1)** Calculates option prices based on 5 factors in the Black-Scholes pricing formula: **Stock Price, Strike Price, Risk-Free Interest Rate, Volatility, & Time To Expiration**; **(2)** Calculates PnL based on user selected naked strategies and inputs. An example usecase of this tool would be: initializing your strategy & inputs at time **(_T0_)**, and consequently adjusting parameters at time **(_T1_)** to simulate payoffs under various circumstances."
+        f"This tool performs two key functions: **(1)** It calculates option prices using the five factors in the Black-Scholes pricing model—**Stock Price, Strike Price, Risk-Free Interest Rate, Volatility, & Time To Expiration**; **(2)** It computes Profit and Loss (PnL) based on user-selected naked strategies and input parameters. A practical use case for this tool would be initializing your strategy and inputs at time **(_T0_)**, then adjusting parameters at time **(_T1_)** to simulate potential payoffs under different scenarios."
         )
 
 st.latex(r'''
