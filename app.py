@@ -131,7 +131,8 @@ with st.container():
             fmt=".0f",
             square=False,
             linewidths=3,
-            center=0
+            center=0,
+            cbar_kws={'label': 'PnL ($)'}
         )
         st.pyplot(plt)
 
