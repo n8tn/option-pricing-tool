@@ -11,7 +11,7 @@ The Options Pricing & Profitability Tool is an interactive Streamlit-based appli
 ## Technical Stack
 
 - **Streamlit**: For the user interface, ensuring ease of use and interactivity.
-- **Plotly**: For creating detailed, interactive charts for data visualization.
+- **Plotly**, **Seaborn**: For creating detailed, interactive charts for data visualization.
 - **Numpy**: Powers the underlying calculations for payoffs and financial metrics.
 
 ## Usage
