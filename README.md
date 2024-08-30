@@ -4,9 +4,9 @@ The Options Pricing & Profitability Tool is an interactive Streamlit-based appli
 
 ## Features
 
-- **Dynamic User Input**: Users can input key parameters such as the underlying stock price, its standard deviation, and details for multiple option combinations.
-- **Payoff Calculations**: The tool calculates the payoff for each option combination across a range of stock prices at expiry.
-- **Interactive Payoff Diagram**: Visualize the net payoff with an intuitive Plotly graph, highlighting the range of standard deviation and key financial metrics.
+- **Dynamic User Input**: Users can input key parameters such as the underlying stock price, strike price, risk-free interest rate, volatility, & time to expirations.
+- **Payoff Calculations**: The tool calculates the payoff for each naked option strategy across a range of various parameters at expiry.
+- **Interactive Payoff Diagram**: Visualize the net payoff with an intuitive Plotly graph, highlighting the different payoff scenarious across spot and strike prices.
 
 ## Technical Stack
 
