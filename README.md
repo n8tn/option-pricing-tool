@@ -1,8 +1,6 @@
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://option-pricing-tool.streamlit.app)
+# Options Pricing & P&L Tool 💵[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://option-pricing-tool.streamlit.app)
 
-# Options Pricing & P&L Tool 💵
-
-The Options Pricing & Profitability Tool is an interactive Streamlit-based application. It offers an analysis of naked options trading strategies, providing insights into potential payoffs and risks. The application allows users to simulate different market conditions and option parameters, aiding in informed trading decisions.
+The Options Pricing & Profitability Tool is an interactive Streamlit-based application. It offers an analysis of naked options trading strategies, providing insights into potential payoffs and risks. The application allows users to simulate different market conditions and option parameters, aiding in informed trading decisions. Check it out here: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://option-pricing-tool.streamlit.app)
 
 ## Features
 
@@ -22,7 +20,7 @@ This tool is intended to demonstrate an analysis of naked trading strategies. It
 
 ---
 
-For more information or to contact the developer, please visit [n8tn's GitHub Profile](https://github.com/n8tn).
+For more information or to contact the developer, please visit [n8tn's GitHub Profile](https://github.com/n8tn). [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://option-pricing-tool.streamlit.app)
 
 
 
