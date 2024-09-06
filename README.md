@@ -1,17 +1,17 @@
-# Option Tool
+# Options Pricing & P&L Tool 💵[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://option-pricing-tool.streamlit.app)
 
-The Options Pricing & Profitability Tool is an interactive Streamlit-based application designed. It offers an analysis of naked options trading strategies, providing insights into potential payoffs and risks. The application allows users to simulate different market conditions and option combinations, aiding in informed trading decisions.
+The Options Pricing & Profitability Tool is an interactive Streamlit-based application. It offers an analysis of naked options trading strategies, providing insights into potential payoffs and risks. The application allows users to simulate different market conditions and option parameters, aiding in informed trading decisions. Check it out here: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://option-pricing-tool.streamlit.app)
 
 ## Features
 
-- **Dynamic User Input**: Users can input key parameters such as the underlying stock price, its standard deviation, and details for multiple option combinations.
-- **Payoff Calculations**: The tool calculates the payoff for each option combination across a range of stock prices at expiry.
-- **Interactive Payoff Diagram**: Visualize the net payoff with an intuitive Plotly graph, highlighting the range of standard deviation and key financial metrics.
+- **Dynamic User Input**: Users can input key parameters such as the underlying stock price, strike price, risk-free interest rate, volatility, & time to expirations.
+- **Payoff Calculations**: The tool calculates the payoff for each naked option strategy across a range of various parameters at expiry.
+- **Interactive Payoff Diagram**: Visualize the net payoff with an intuitive Plotly graph, highlighting the different payoff scenarious across spot and strike prices.
 
 ## Technical Stack
 
 - **Streamlit**: For the user interface, ensuring ease of use and interactivity.
-- **Plotly**: For creating detailed, interactive charts for data visualization.
+- **Plotly**, **Seaborn**: For creating detailed, interactive charts for data visualization.
 - **Numpy**: Powers the underlying calculations for payoffs and financial metrics.
 
 ## Usage
@@ -20,7 +20,7 @@ This tool is intended to demonstrate an analysis of naked trading strategies. It
 
 ---
 
-For more information or to contact the developer, please visit [n8tn's GitHub Profile](https://github.com/n8tn).
+For more information or to contact the developer, please visit [n8tn's GitHub Profile](https://github.com/n8tn). [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://option-pricing-tool.streamlit.app)
 
 
 

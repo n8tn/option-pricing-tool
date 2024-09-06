@@ -10,7 +10,7 @@ import streamlit as st
 #Creates a wide layout and title for the Streamlit app
 st.set_page_config(layout="wide")
 
-st.title('Options Pricing & P&L Tool 💵')
+st.title('Options Pricing & PnL Tool 💵')
 
 #Provides a description on the app and how to use it
 st.write(
