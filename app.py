@@ -119,7 +119,9 @@ with st.container():
         emoji = "👍" if net_return >= 0 else "👎"
 
         st.caption(f"If you went :red[**{position} on a ${K} {type} Strike at _T0_**] & the underlying reached :red[**${S2} at _T1_**], your net return would be :{color}[**${net_return}**{emoji}].")
-        # Create an annotated heatmap
+        # Create an annotated heatmap with a dark background style
+        plt.style.use('dark_background')
+
         plt.figure(figsize=(10,8))
         plt.rcParams.update({'font.size': 10})
         sns.heatmap(
