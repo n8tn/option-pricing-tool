@@ -8,7 +8,10 @@ from scipy.stats import norm
 import streamlit as st
 
 #Creates a wide layout and title for the Streamlit app
-st.set_page_config(layout="wide")
+st.set_page_config(
+    page_title="Options Pricing & PnL Tool",
+    page_icon="💵",
+    layout="wide")
 
 st.title('Options Pricing & PnL Tool 💵')
 
